@@ -1,0 +1,64 @@
+body {
+    color: rgb(0, 0, 0);
+    background-color: rgb(244, 159, 237);
+
+    /* text-align: center; */
+
+}
+h1{
+    font-size: 45px;
+    text-align: center;
+    color: #2019f2;
+    text-shadow: 1px 1px 1.5px white;
+}
+.box1{
+    float: left;
+    margin: 0vw 0 2vw 30%;
+}
+.box2{
+    float: left;
+    /* margin: 0; */
+    margin: 0vw 0 2vw 10%;
+
+}
+#theory{
+    width: 70%;
+    text-align: center;
+    margin-left:13% ;
+}
+#name1{
+    border-radius: 15px;
+    height: 28px;
+}
+#name2{
+    border-radius: 15px;
+    height: 28px;
+}
+#btn1{
+    float: left;
+    clear: left;
+    margin-left: 45%;
+    border-radius: 15px;
+    height: 30px;
+}
+img{
+    position: absolute;
+    top: 58%;
+    left: 40%;
+}
+#out{
+    position: absolute;
+    top: 57%;
+    left: 47%;
+    font-size: 55px;
+    z-index: 2;
+}
+.end{
+    position: absolute;
+    z-index: -1;
+    bottom: 0;
+    text-align: center;
+    margin: 0;
+    width: 100%;
+    background-color: rgb(223, 190, 148);
+}
